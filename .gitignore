@@ -1,0 +1,15 @@
+.DS_Store
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.so
+*.o
+*.a
+*.dylib
+*.dll
+build/
+dist/
+*.egg-info/
+*.log
+.ipynb_checkpoints/
