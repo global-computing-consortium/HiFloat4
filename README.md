@@ -4,6 +4,13 @@ HiFloat4: High-Performance HiFloat4 Quantization Library.
 
 HiFloat4 is a library designed for efficient Float4 quantization and simulation across different hardware backends, including NVIDIA CUDA and Huawei Ascend NPU. It provides high-performance kernels for pseudo-quantization, enabling researchers to simulate HiFloat4 precision in deep learning models.
 
+Link to the Q&A and Information Session Replay：
+Youtube：https://www.youtube.com/watch?v=fxhK7GRIBb0
+
+Wechat：Global Computing Consortium WeChat Video Channel
+
+Demo Library：https://github.com/global-computing-consortium/ICME-Demo
+
 Installation & Verification
 1. CUDA Version (NVIDIA GPUs)
 To build and verify the CUDA-accelerated operators, follow these steps:
